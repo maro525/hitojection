@@ -1,0 +1,10 @@
+<group>
+	<nearThresh>230</nearThresh>
+	<farThresh>186</farThresh>
+	<minArea>1000</minArea>
+	<maxArea>70000</maxArea>
+	<threshold>15</threshold>
+	<persistence>15</persistence>
+	<maxDistance>32</maxDistance>
+<group/>
+</group>

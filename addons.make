@@ -1,0 +1,4 @@
+ofxBoids
+ofxGui
+ofxKinect
+ofxOpenCv
